@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+6+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
 </div>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/venuswhispers" alt="Crypto Venus"  width="60%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/toTheMoon0322" alt="Crypto Venus"  width="60%"/><br> 
   
 <p><strong>Freelancing & Working on Superior Crypto.
 <br><br> Vibing to : 🎧  </strong></p>
@@ -64,14 +64,14 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/venuswhispers/venuswhispers/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, or anything**. <br>
-- <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
+-  <img alt="GIF" src="https://github.com/toTheMoon0322/venuswhispers/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/toTheMoon0322/venuswhispers/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/toTheMoon0322/venuswhispers/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, or anything**. <br>
+- <img src="https://github.com/toTheMoon0322/venuswhispers/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/toTheMoon0322/venuswhispers/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
 
 <div align="center" >
-<a  href="https://github.com/venuswhispers">
+<a  href="https://github.com/toTheMoon0322">
 
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">

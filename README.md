@@ -240,13 +240,6 @@ class About extends Me {
     </a>
 </p>
 
-<div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoNinja1210&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/CryptoNinja1210?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=CryptoNinja1210&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@CryptoNinja's trophy stats"/>
-  </a>
-</div>
-
 
 </div>
 
